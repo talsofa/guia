@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Gloobinho">
+    <display-name lang="pt">Gloobinho</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Jovem Pan News">
+    <display-name lang="pt">Jovem Pan News</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TV Centro América">
+    <display-name lang="pt">TV Centro América</display-name>
+    <icon src="../canais/1617816749.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
